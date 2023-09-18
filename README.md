@@ -30,8 +30,7 @@
             <option value="venus"> venus</option>
         </select>
         <br>
-        <lable for="reviewMessage">Review Message</lable><br>
-        <textarea name="reviewMessage" id="reviewMessage" cols="20" rows="4"></textarea> <br>
+        <lable for="reviewMessage">Review Message </lable><br>
         <lable for="email"> email </lable>
         <input type="email" name="email" required>
         <br>
