@@ -6,13 +6,6 @@
     <link rel="shortcut icon" href="edit.svg">
     <title> Form Page</title>
 
-    <style>
-        form {
-            color: rgb(29, 118, 118);
-            text-align: center;
-            font-size: 20px;
-        }
-    </style>
 </head>
 
 <body>
@@ -48,11 +41,6 @@
         <lable for="password"> password </lable>
         <input type="password" name="password" required>
         <br>
-
-        <lable for = "sub">Subscribe??</lable>
-        <input type = "checkbox" name = "sub" id = "sub"> <br>
-        
-        <input type="submit" value="Login!">
     </form>
     </p>
 </body>
