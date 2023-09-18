@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="device-width, initial-scale = 1.0">
     <link rel="shortcut icon" href="edit.svg">
-    <title> Form Page</title>
-
 </head>
 
 <body>
@@ -27,7 +25,6 @@
         <br>
         <label for="planet">Planet:</label>
         <select name="planet" id="planet">
-            <option> Select an Option</option>
             <option value="earth"> earth</option>
             <option value="mars"> mars</option>
             <option value="venus"> venus</option>
